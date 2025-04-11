@@ -11,6 +11,6 @@
 - **Tools:** Azure Monitor, GitHub Actions, Power BI
 
 ## 📌 Featured Projects
-🔸
+🔸[Synapse to Databricks ETL](https://github.com/yourusername/Azure_Synapse_to_Databricks_ETL)
 
 📫 [LinkedIn](https://linkedin.com/in/nirupam-kumar-velagapudi/) | 📁 [Resume](#)
