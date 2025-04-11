@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Nirupam Kumar Velagapudi
+### 🚀 Senior Data Engineer | Azure | Databricks | Snowflake
 
-<!--
-**vnks18/vnks18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 9+ years of experience in Cloud Data Platforms  
+🔹 Expertise in Azure Synapse, Databricks, Snowflake, ADF, PySpark, SQL  
+🔹 Passionate about designing scalable pipelines and solving real-world data challenges
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Cloud:** Azure Synapse, ADF, ADLS Gen2, Snowflake, Databricks
+- **Processing:** PySpark, Delta Lake, T-SQL, SQL Server, ServiceNow APIs
+- **Tools:** Azure Monitor, GitHub Actions, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+🔸
+
+📫 [LinkedIn](https://linkedin.com/in/nirupam-kumar-velagapudi/) | 📁 [Resume](#)
